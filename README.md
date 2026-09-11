@@ -179,7 +179,7 @@ This assessment demonstrates a structured QA approach to a multi-user CRUD appli
 
 ## Author
 
-**[Your Full Name]**
+**[Munna Kumar]**
 Software Tester (QA) — Assessment Submission
-Email: [your.email@example.com]
+Email: [munna.kumar.cs.2023@mitmeerut.ac.in]
 Submitted to: VirtuBox Infotech Private Limited
